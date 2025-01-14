@@ -15,23 +15,17 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented: (*TBD*)
+The following **optional** features are implemented: N/A
 
-## Video Walkthrough (*TBD*)
+## Video Walkthrough
 
-<!-- 
-Here's a walkthrough of implemented features:
+<div align="center">
+    <img src = "https://github.com/user-attachments/assets/e46e10f3-00dd-48f0-930d-a851e0ed76d4" alt = "Sea Monster Website Walkthrough GIF">
+</div>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Notes
 
-<!-- Replace this with whatever GIF tool you used! -->
-<!-- GIF created with ... -->
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes (*TBD*)
+No notes, just excited to get this course underway!
 
 ## License
 
